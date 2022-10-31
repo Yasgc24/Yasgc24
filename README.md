@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasmin Giraldo</h1>
-<h3 align="center">A passionate software developer from Colombia</h3>
+<h3 align="center">A passionate software developer from Colombia.
+ I have the ability to learn quickly and find an effective solution to the proposed challenges. I am a disciplined and committed person, willing to be in constant search of new learning. I have very good communication skills and interpersonal relationships, which favor teamwork to achieve faster solutions and more efficient work.
+</h3>
 
 - 🌱 I’m currently learning **Software development**
 
