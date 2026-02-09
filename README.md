@@ -3,8 +3,6 @@
  I have the ability to learn quickly and find an effective solution to the proposed challenges. I am a disciplined and committed person, willing to be in constant search of new learning. I have very good communication skills and interpersonal relationships, which favor teamwork to achieve faster solutions and more efficient work.
 </h3>
 
-- 🌱 I’m currently learning **Django**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Yasgc24?tab=repositories](https://github.com/Yasgc24?tab=repositories)
 
 - 💬 Ask me about **C, Python, Javascript, HTML, CSS**
